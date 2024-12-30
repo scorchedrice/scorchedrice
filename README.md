@@ -5,10 +5,6 @@ https://scorchedrice.github.io
 # MyProfile
 https://scorchedrice.github.io/my_profile
 
-![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scorchedrice&layout=compact)
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=scorchedrice&show_icons=true&theme=radical)
-
 
 <!--
 **scorchedrice/scorchedrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
