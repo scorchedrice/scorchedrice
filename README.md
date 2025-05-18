@@ -59,4 +59,4 @@ Check out my technical blog deployed on GitHub Pages and my portfolio developed 
 
 ### Tools
 
-<img src="https://img.shields.io/badge/Jest-c21123?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-c21123?style=for-the-badge&logo=figma&logoColor=white"/>
