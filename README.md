@@ -30,7 +30,6 @@ Check out my technical blog deployed on GitHub Pages and my portfolio developed 
 <br>
 
 <div style="display: flex; gap: 8px; width: 100%; box-sizing: border-box">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </div>
 
@@ -42,21 +41,22 @@ Check out my technical blog deployed on GitHub Pages and my portfolio developed 
 
 <div style="display: flex; gap: 8px; width: 100%; box-sizing: border-box">
     <img src="https://img.shields.io/badge/Nest.js-e0234e?style=for-the-badge&logo=nestjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/bolt-ebb02e?style=for-the-badge"/>
 </div>
 
 <br>
-<div style="display: flex; gap: 8px; width: 100%; box-sizing: border-box">
+<!-- <div style="display: flex; gap: 8px; width: 100%; box-sizing: border-box">
     <img src="https://img.shields.io/badge/Postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
-</div>
+</div> -->
 
-<br>
 
-<div style="display: flex; gap: 8px; width: 100%; box-sizing: border-box">
+
+<!-- <div style="display: flex; gap: 8px; width: 100%; box-sizing: border-box">
     <img src="https://img.shields.io/badge/Kafka-231f20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-</div>
+</div> -->
 
-### Testing
+### Tools
 
-<img src="https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-c21123?style=for-the-badge&logo=figma&logoColor=white"/>
