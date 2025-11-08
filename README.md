@@ -42,6 +42,7 @@ Check out my technical blog deployed on GitHub Pages and my portfolio developed 
 <div style="display: flex; gap: 8px; width: 100%; box-sizing: border-box">
     <img src="https://img.shields.io/badge/Nest.js-e0234e?style=for-the-badge&logo=nestjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/bolt-ebb02e?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
 </div>
 
 <br>
