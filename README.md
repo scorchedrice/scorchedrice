@@ -20,21 +20,9 @@ Check out my technical blog deployed on GitHub Pages and my portfolio developed 
     <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white"/>
 </div>
 
-
 <br>
 
-<div style="display: flex; gap: 8px; width: 100%; box-sizing: border-box">
-    <img src="https://img.shields.io/badge/Zustand-AD7EE0?style=for-the-badge&logo=zustand&logoColor=white"/>
-</div>
-
-<br>
-
-<div style="display: flex; gap: 8px; width: 100%; box-sizing: border-box">
-    <img src="https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</div>
-
-<br>
-
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
 
 ### BackEnd
@@ -46,6 +34,9 @@ Check out my technical blog deployed on GitHub Pages and my portfolio developed 
 </div>
 
 <br>
+
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
 <!-- <div style="display: flex; gap: 8px; width: 100%; box-sizing: border-box">
     <img src="https://img.shields.io/badge/Postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white"/>
