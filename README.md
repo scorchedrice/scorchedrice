@@ -22,8 +22,10 @@ Check out my technical blog deployed on GitHub Pages and my portfolio developed 
 
 <br>
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
+<div style="display: flex; gap: 8px; width: 100%; box-sizing: border-box">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
+</div>
 
 ### BackEnd
 
